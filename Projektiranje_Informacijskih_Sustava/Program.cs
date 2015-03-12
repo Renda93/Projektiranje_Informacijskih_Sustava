@@ -10,6 +10,7 @@ namespace Projektiranje_Informacijskih_Sustava
         static void Main(string[] args)
         {
             Console.WriteLine("HELLO WORLD");
+            Console.WriteLine("dođi i uzmi meeee");
             Console.Read();
         }
     }
