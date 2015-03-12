@@ -12,6 +12,7 @@ namespace Projektiranje_Informacijskih_Sustava
             Console.WriteLine("HELLO WORLD");
             Console.WriteLine("dođi i uzmi meeee");
             Console.WriteLine("Lokalna linija!");
+            Console.WriteLine("Promjena na serveru");
             Console.Read();
         }
     }
