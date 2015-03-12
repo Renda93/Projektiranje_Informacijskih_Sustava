@@ -9,6 +9,8 @@ namespace Projektiranje_Informacijskih_Sustava
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("HELLO WORLD");
+            Console.Read();
         }
     }
 }
